@@ -1,0 +1,26 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment and OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore large model or dataset files
+*.pt
+*.pth
+*.h5
+*.bin
+*.wav
+*.mp3
+*.mp4
+*.zip
